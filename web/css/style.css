@@ -9,10 +9,15 @@ and open the template in the editor.
 */
 
 form{
-    background-color: red;
+    background-color: ligthgrey;
+    border:1px solid black;
+    width:200px;
+    padding:10px;
+    border-radius: 2rem;
 }
 
 form>input[type=submit]{
-    background-color: blue;
+    background-color: grey;
+    border:1px solid black;
 }
 
